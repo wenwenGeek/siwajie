@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.wenwengeek.siwajie.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.wenwengeek.siwajie.MyBundle
 
 class MyApplicationService {
 
